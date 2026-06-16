@@ -4,8 +4,7 @@
 
 This project was developed during my internship at NayePankh Foundation. The dashboard provides comprehensive insights into donations, donor engagement, beneficiary outreach, scholarships, volunteer participation, and program impact using Power BI.
 The objective of this project is to transform NGO operational data into meaningful visual insights that support data-driven decision-making and help measure social impact.
-NayePankh Foundation is a student-led NGO focused on uplifting underprivileged communities through education, awareness, support initiatives, and social welfare programs. :contentReference[oaicite:0]{index=0}
-
+NayePankh Foundation is a student-led NGO focused on uplifting underprivileged communities through education, awareness, support initiatives, and social welfare programs. 
 ---
 
 ## 📊 Dashboard Features
@@ -112,7 +111,7 @@ To create a centralized dashboard that enables stakeholders to:
 **Rakhi Samant**
 Computer Engineering Student  
 Data Analytics Intern
-LinkedIn: https://www.linkedin.com/in/rakhi-samant-0bb067346
+LinkedIn:[ https://www.linkedin.com/in/rakhi-samant-0bb067346](https://www.linkedin.com/in/rakhi-s-0bb067346/)
 GitHub: https://github.com/itz-rakhi
 
 ---
